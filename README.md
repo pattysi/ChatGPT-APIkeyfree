@@ -65,7 +65,7 @@
 
 **我们提供网站用作使用您的Key**
 
-[**ChatGPT公益网**](https://www.20082009.xyz/）
+[ChatGPT公益网](https://www.20082009.xyz/）
 
 ## 赞助我
 
