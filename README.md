@@ -1,5 +1,5 @@
 <div align="center">
-<img src="iron.png" alt="icon" width="50px"/>
+<img src="icon.png" alt="icon" width="50px"/>
 <h1 align="center">ChatGPT APIKey free</h1>
 
 支持 **GPT-4** / GPT-3.5-Turbo / GPT-3.5-Turbo-16K / DALL·E / whisper
