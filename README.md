@@ -67,6 +67,10 @@
 
 [ChatGPT公益网](https://www.20082009.xyz/)
 
+##  🐞问题反馈
+
+请前往[Issues](https://github.com/pattysi/ChatGPT-API-key-free/issues)页面，感谢您的反馈
+
 ## 赞助我
 
 ***如果您觉得API Key用着顺利，请考虑在 GitHub 上赞助作者以支持持续的开发和维护。您的支持将帮助她维护这个项目，并继续让所有人都能使用人工智能技术。感谢您的支持！***
