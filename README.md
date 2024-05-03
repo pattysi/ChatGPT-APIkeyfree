@@ -45,7 +45,7 @@
 
 1.进入网站
 
-2.注册
+2.注册，使用邀请码注册可以额外获得0.5美元余额https://api.120509.xyz/register?aff=soWL
 
 3.自行生成API Key
 
