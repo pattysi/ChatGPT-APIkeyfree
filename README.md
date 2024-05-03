@@ -18,7 +18,7 @@
 
 ## 特点
 1. 支持Models, Embedding, GPT-3.5-Turbo, GPT-3.5-Turbo-16K, ***GPT-4***, ***DALLE***。（可以支持AutoGPT, gpt_academic, langchain等）
-2. 支持GPT-4
+2. 支持Claude3
 3. 与官方完全一致的接口标准，兼容各种软件/插件。
 4. 支持流式响应。
 5. 国内线路使用动态加速，体验远优于使用代理连接官方。
@@ -47,6 +47,14 @@
 2.注册
 3.自行生成API Key
 **详细教程：https://docs.qq.com/doc/DZnlPRXZoRFdJcXFO**
+
+## 余额充值
+
+*如果免费的API Key余额不够用，您可以考虑充值余额*
+
+*访问我们的[商店](https://dwz.cn/37UcZzch),低价余额充值，充值比率5:3
+
+*对标官网价格，我们便宜了10倍，比极大部分中转Key都便宜*
 
 ## 使用地址
 
