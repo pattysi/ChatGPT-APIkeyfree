@@ -2,16 +2,16 @@
 <img src="icon.png" alt="icon" width="128px"/>
 <h1 align="center">ChatGPT APIKey free</h1>
 
-支持 **GPT-4** / GPT-3.5-Turbo / GPT-3.5-Turbo-16K / DALL·E / whisper
+✨支持 **GPT-4** / GPT-3.5-Turbo / GPT-3.5-Turbo-16K / DALL·E / whisper✨
 
-[申请内测免费Key](https://api.120509.xyz)  [服务可用性](https://status.120509.xyz/status/ai)
+[申请内测免费Key（独享）](https://api.120509.xyz)  [服务可用性](https://status.120509.xyz/status/ai)
 
 [QQ群: 921551235](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=b_iVTl7wDxl7AfmOZMvoA_vZY7zeviBh&authKey=BVeGeMiHJ8tepsevcRsBB%2Fk%2BJ9ojVStlh%2BKA4o%2BFB%2FGd81uVKbY3BDa5tZgdmqCK&noverify=0&group_code=921551235)
 
 **注册送1$余额，可调用所有支持的模型**
 </div>
 
-## 🆓 免费 OpenAI Key
+## 🆓 免费 OpenAI Key（共享）
 
 Base URL: `https://api.120509.xyz`
 
@@ -20,6 +20,8 @@ Api Key: `sk-WseKSTO6M8Y8kEhFF10a1dBcCeEb490aAaA186Ef959a6797`
 Support Models: `gpt-4`,`gpt-3.5-turbo`,`gpt-3.5-turbo-16k`
 
 此共享卡密中有50$余额，用完即止，可联系QQ群主增加余额，QQ群：921551235
+
+## ✨点个 Star 吧✨
 
 ## 隐私声明
 
@@ -48,7 +50,7 @@ Support Models: `gpt-4`,`gpt-3.5-turbo`,`gpt-3.5-turbo-16k`
 
 ## 免费使用
 
--**🚀[申请领取内测API Key](https://api.120509.xyz)**
+-**🚀[申请领取内测API Key（独享）](https://api.120509.xyz)**
 
 -**转发Host: `https://api.120509.xyz`**
 
@@ -58,13 +60,13 @@ Support Models: `gpt-4`,`gpt-3.5-turbo`,`gpt-3.5-turbo-16k`
 
 2.注册，使用邀请码注册可以额外获得0.5美元余额https://api.120509.xyz/register?aff=soWL
 
-3.自行生成API Key
+3.自行生成API Key（独享）
 
 **详细教程：https://docs.qq.com/doc/DZnlPRXZoRFdJcXFO**
 
 ## 余额充值
 
-*如果免费的API Key余额不够用，您可以考虑充值余额*
+*如果免费的API Key（独享）余额不够用，您可以考虑充值余额*
 
 *访问我们的[商店](https://dwz.cn/37UcZzch),低价余额充值，充值比率：500¥=500$余额=25,000,000 tokens*
 
