@@ -4,7 +4,7 @@
 
 ✨支持 **GPT-4** / GPT-3.5-Turbo / GPT-3.5-Turbo-16K / DALL·E / whisper✨
 
-[申请内测免费Key（独享）](https://api.120509.xyz/panel/token)  [服务可用性](https://status.120509.xyz/status/ai)
+[申请内测免费Key（独享）](https://api.120509.xyz/token)  [服务可用性](https://status.120509.xyz/status/ai)
 
 [QQ群: 921551235](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=b_iVTl7wDxl7AfmOZMvoA_vZY7zeviBh&authKey=BVeGeMiHJ8tepsevcRsBB%2Fk%2BJ9ojVStlh%2BKA4o%2BFB%2FGd81uVKbY3BDa5tZgdmqCK&noverify=0&group_code=921551235)
 
@@ -50,7 +50,7 @@ Support Models: `gpt-4`,`gpt-3.5-turbo`,`gpt-3.5-turbo-16k`
 
 ## 免费使用
 
--**🚀[申请领取内测API Key（独享）](https://api.120509.xyz/panel/token)**
+-**🚀[申请领取内测API Key（独享）](https://api.120509.xyz/token)**
 
 -**转发Host: `https://api.120509.xyz`**
 
