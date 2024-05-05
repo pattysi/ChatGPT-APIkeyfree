@@ -11,7 +11,7 @@
 **注册送1$余额，可调用所有支持的模型**
 </div>
 
-## 🆓 免费 OpenAI Key（共享）
+## 🆓 免费 OpenAI Key
 
 Base URL: `https://api.120509.xyz`
 
