@@ -58,7 +58,7 @@ Support Models: `gpt-4`,`gpt-3.5-turbo`,`gpt-3.5-turbo-16k`
 
 1.进入网站
 
-2.注册，使用邀请码注册可以额外获得0.5美元余额https://api.120509.xyz/register?aff=soWL
+2.注册，使用邀请链接注册可以额外获得0.5美元余额https://api.120509.xyz/register?aff=soWL
 
 3.自行生成API Key（独享）
 
