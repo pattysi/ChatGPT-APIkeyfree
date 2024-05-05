@@ -19,7 +19,7 @@ Api Key: `sk-WseKSTO6M8Y8kEhFF10a1dBcCeEb490aAaA186Ef959a6797`
 
 Support Models: `gpt-4`,`gpt-3.5-turbo`,`gpt-3.5-turbo-16k`
 
-此共享卡密中有50$余额，用完即止，可联系QQ群主增加余额，QQ群：921551235
+此共享卡密中有5000$余额，用完即止，可联系QQ群主增加余额，QQ群：921551235
 
 ## ✨点个 Star 吧✨
 
