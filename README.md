@@ -4,7 +4,7 @@
 
 ✨支持 **GPT-4** / GPT-3.5-Turbo / GPT-3.5-Turbo-16K / DALL·E / whisper✨
 
-[申请内测免费Key（独享）]([https://gpt-plus.top/)  [服务可用性](https://status.120509.xyz/status/ai)
+[申请内测免费Key（独享）]([https://www.gpt-plus.top/)  [服务可用性](https://status.120509.xyz/status/ai)
 
 [QQ群: 921551235](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=b_iVTl7wDxl7AfmOZMvoA_vZY7zeviBh&authKey=BVeGeMiHJ8tepsevcRsBB%2Fk%2BJ9ojVStlh%2BKA4o%2BFB%2FGd81uVKbY3BDa5tZgdmqCK&noverify=0&group_code=921551235)
 
@@ -13,15 +13,13 @@
 
 ## 🆓 免费 OpenAI Key（已失效）
 
-Base URL: `https://gpt-plus.top`
+Base URL: `https://www.gpt-plus.top`
 
 Api Key: `sk-WseKSTO6M8Y8kEhFF10a1dBcCeEb490aAaA186Ef959a6797`
 
 Support Models: `gpt-4`,`gpt-3.5-turbo`,`gpt-3.5-turbo-16k`
 
 此共享卡密中有5000$余额，用完即止，可联系QQ群主增加余额，QQ群：921551235
-
-如果服务不稳定，不是我们的问题，我们本来购买了极其高配的服务器，但被傻逼提供商恶意封了，这是服务器提供商的qq：3813742753 加他qq骂他，骂的越凶越好，带截图私信群主免费领余额，2美元到10美元不等，多少取决于你骂的有多凶！
 
 ## ✨点个 Star 吧✨
 
@@ -46,15 +44,15 @@ Support Models: `gpt-4`,`gpt-3.5-turbo`,`gpt-3.5-turbo-16k`
 
 ## 免费使用
 
--**🚀[申请领取内测API Key（独享）](https://gpt-plus.top/token)**
+-**🚀[申请领取API Key（独享）](https://www.gpt-plus.top/token)**
 
--**转发Host: `https://gpt-plus.top`**
+-**转发Host: `https://www.gpt-plus.top`**
 
 ## 领取方法
 
 1.进入网站
 
-2.注册，使用邀请链接注册可以额外获得0.5美元余额https://gpt-plus.top/register?aff=soWL
+2.注册，使用邀请链接注册可以额外获得0.5美元余额https://www.gpt-plus.top/register?aff=soWL
 
 3.自行生成API Key（独享）
 
