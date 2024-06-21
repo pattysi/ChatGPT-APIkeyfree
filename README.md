@@ -2,13 +2,13 @@
 <img src="icon.png" alt="icon" width="128px"/>
 <h1 align="center">ChatGPT APIKey free</h1>
 
-✨支持 **GPT-4** / GPT-3.5-Turbo / GPT-3.5-Turbo-16K / DALL·E / whisper✨
+✨支持 **GPT-4** / GPT-3.5-Turbo / GPT-3.5-Turbo-16K / DALL·E / midjourney✨
 
-[申请内测免费Key（独享）]([https://www.gpt-plus.top/)  [服务可用性](https://status.120509.xyz/status/ai)
+[申请内测免费Key（独享）]([https://www.gpt-plus.top)  [服务可用性](https://status.120509.xyz/status/ai)
 
 [QQ群: 921551235](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=b_iVTl7wDxl7AfmOZMvoA_vZY7zeviBh&authKey=BVeGeMiHJ8tepsevcRsBB%2Fk%2BJ9ojVStlh%2BKA4o%2BFB%2FGd81uVKbY3BDa5tZgdmqCK&noverify=0&group_code=921551235)
 
-**注册送1$余额，可调用所有支持的模型**
+**注册送0.5$余额，可调用所有支持的模型**
 </div>
 
 ## 🆓 免费 OpenAI Key（已失效）
