@@ -4,7 +4,7 @@
 
 ✨支持 **GPT-4** / GPT-3.5-Turbo / GPT-3.5-Turbo-16K / DALL·E / midjourney✨
 
-[申请免费Key（独享）]([https://www.gpt-plus.top)  [服务可用性](https://status.120509.xyz/status/ai)
+[申请免费Key（独享）](https://www.gpt-plus.top)  [服务可用性](https://status.120509.xyz/status/gpt-plus)
 
 [QQ群: 921551235](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=b_iVTl7wDxl7AfmOZMvoA_vZY7zeviBh&authKey=BVeGeMiHJ8tepsevcRsBB%2Fk%2BJ9ojVStlh%2BKA4o%2BFB%2FGd81uVKbY3BDa5tZgdmqCK&noverify=0&group_code=921551235)
 
@@ -62,7 +62,7 @@ Support Models: `gpt-4`,`gpt-3.5-turbo`,`gpt-3.5-turbo-16k`
 
 *如果免费的API Key（独享）余额不够用，您可以考虑充值余额*
 
-*访问我们的[商店](https://dwz.cn/37UcZzch),低价余额充值，充值比率：0.25¥=1$*
+*访问我们的[商店](https://faka.gpt-plus.top),低价余额充值，充值比率：0.25¥=1$*
 
 *对标官网价格，我们便宜了28倍，比所有中转Key都便宜*
 
