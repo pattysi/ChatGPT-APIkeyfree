@@ -16,7 +16,7 @@ Base URL: `https://www.gpt-plus.top`
 
 Api Key: `sk-eZ2CAYvglyKlTTiQ9d6cE3C9F69f48B5Af9d9348A45f812b`
 
-速率闲置每5秒3次
+速率限制每5秒3次
 
 此共享卡密中有1000$余额，用完即止，可联系QQ群主增加余额，QQ群：921551235
 
