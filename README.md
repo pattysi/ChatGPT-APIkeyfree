@@ -8,18 +8,17 @@
 
 [QQ群: 921551235](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=b_iVTl7wDxl7AfmOZMvoA_vZY7zeviBh&authKey=BVeGeMiHJ8tepsevcRsBB%2Fk%2BJ9ojVStlh%2BKA4o%2BFB%2FGd81uVKbY3BDa5tZgdmqCK&noverify=0&group_code=921551235)
 
-**注册送0.5$余额，可调用所有支持的模型**
+**注册送0.5$余额，有免费分组，可调用所有支持的模型**
 </div>
 
-## 🆓 免费 OpenAI Key（已失效）
-
+## 🆓 免费 OpenAI Key
 Base URL: `https://www.gpt-plus.top`
 
-Api Key: `sk-WseKSTO6M8Y8kEhFF10a1dBcCeEb490aAaA186Ef959a6797`
+Api Key: `sk-eZ2CAYvglyKlTTiQ9d6cE3C9F69f48B5Af9d9348A45f812b`
 
-Support Models: `gpt-4`,`gpt-3.5-turbo`,`gpt-3.5-turbo-16k`
+速率闲置每5秒3次
 
-此共享卡密中有5000$余额，用完即止，可联系QQ群主增加余额，QQ群：921551235
+此共享卡密中有1000$余额，用完即止，可联系QQ群主增加余额，QQ群：921551235
 
 ## ✨点个 Star 吧✨
 
@@ -56,17 +55,11 @@ Support Models: `gpt-4`,`gpt-3.5-turbo`,`gpt-3.5-turbo-16k`
 
 3.自行生成API Key（独享）
 
-**详细教程：https://docs.qq.com/doc/DZnlPRXZoRFdJcXFO**
-
 ## 余额充值
 
 *如果免费的API Key（独享）余额不够用，您可以考虑充值余额*
 
-*访问我们的[商店](https://faka.gpt-plus.top),低价余额充值，充值比率：0.25¥=1$*
-
-*对标官网价格，我们便宜了28倍，比所有中转Key都便宜*
-
-*我们的目标就是，干爆友商！*
+*访问我们的[商店](https://faka.gpt-plus.top),低价余额充值，充值比率：1¥=1$，费用比率低至0.01:1*
 
 ## 使用地址
 
