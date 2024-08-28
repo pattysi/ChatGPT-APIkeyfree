@@ -39,7 +39,7 @@ Api Key: `sk-eZ2CAYvglyKlTTiQ9d6cE3C9F69f48B5Af9d9348A45f812b`
 
 ## 注意事项
 
-❗*如果遇到无回复，报错等情况，可以查看 [status.120509.xyz](https://status.120509.xyz/status/ai)，确认服务状态是否正常，以帮助排查问题。*
+❗*如果遇到无回复，报错等情况，可以查看 [status.120509.xyz](https://status.120509.xyz/status/gpt-plus)，确认服务状态是否正常，以帮助排查问题。*
 
 ## 免费使用
 
@@ -65,7 +65,7 @@ Api Key: `sk-eZ2CAYvglyKlTTiQ9d6cE3C9F69f48B5Af9d9348A45f812b`
 
 **我们提供网站用作使用您的Key**
 
-[ChatGPT公益网](https://www.20082009.xyz/)
+[ChatGPT公益网](https://www.20082009.xyz)
 
 ##  🐞问题反馈
 
